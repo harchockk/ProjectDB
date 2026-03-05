@@ -1,6 +1,17 @@
-#userForm
-{
+body{
+    background-color: rgb(253, 216, 53);
+    color:indigo;
+    size: 5%;
+}
+#userForm{
     display: flex;
     flex-direction: column;
-    gap:15px;
+    margin: 5%;
+    margin-right: 70%;
+    padding:4%;
+    padding-top:0px;
+}
+
+input{
+    background-color: rgb(202, 163, 230);
 }
